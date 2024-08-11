@@ -1,0 +1,9 @@
+.myprimary{
+    background-color:#2095F1;
+    color:white;
+}
+
+.form-control:focus {
+    border-color: #edcb65; /* Warning color */
+    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.25);
+}
